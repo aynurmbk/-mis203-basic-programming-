@@ -1,8 +1,8 @@
 # MIS203 Basic Programming
 
-Name: Aynur Mübe
+Name: Aynur Mübek
 Student Number:2404109057
-Department:Management Information Systems
+Department: Management Information Systems
 Course Name:Basic Programming
 
 
