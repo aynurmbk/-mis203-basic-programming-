@@ -34,3 +34,8 @@ print("f"Subtotal: {subtotal:.2f} TRY")
 print(f"" Tax ({tax_percentage:.0f}%): {tax_amount:.2f } TRY")
 print (f" delivery fee: {delivery_fee:.2f} TRY")
 print (f"TOTAL:.2f} TRY")
+
+* Acceptance Check #4 Explanation
+print ("\n[EXPLANATION]: input() returns data as a string by default.")
+print "(Performing arithmetic on strings either causes a TypeError or unexpected concatenation (e.g.,12' + '2' = '22').")
+print ("Therefore, inputs must be converted to int or float before performing mathematical calculations.")
