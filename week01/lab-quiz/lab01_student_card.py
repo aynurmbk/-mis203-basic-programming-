@@ -1,8 +1,8 @@
 name = input("Enter your name and surname:")
-student_ID =input("Enter your student ID")
-department =input("Enter your department")
-Github_username =input("Enter your Github username")
-goal=input("Enter your goal")
+student_ID =input("Enter your student ID:")
+department =input("Enter your department:")
+Github_username =input("Enter your Github username:")
+goal=input("Enter your goal:")
 
 
 print("\n"+ "=")
