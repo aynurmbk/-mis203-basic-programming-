@@ -1,4 +1,4 @@
-ş# MIS203 Basic Programming
+# MIS203 Basic Programming
 
 Name: Aynur Mübek
 Student Number:2404109057
@@ -41,3 +41,9 @@ Tested Test Case 2 from Acceptance Checks:
 
 ## Change Made After Testing
 After running initial tests, I fixed the table formatting using standard width specifiers (`:<8`, `:<16`, `:<12`) so that the monthly interest and total balance align neatly in columns regardless of digit lengths.
+
+#Week 05
+### Week 5 Lab Notes
+- **Test Performed:** Checked the threshold boundary for discounts by testing an exact subtotal of 100 (`calculate_discount_rate(100)`) and boundary values below it.
+- **Change Made After Testing:** Initially, the threshold condition used strict inequality (`> 100`), but after running the boundary tests, I updated it to `>= 100` so that orders totaling exactly 100 correctly receive the 10% discount.
+
